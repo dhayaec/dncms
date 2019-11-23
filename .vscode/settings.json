@@ -1,0 +1,17 @@
+{
+  "cSpell.words": ["typeorm"],
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "git.enableSmartCommit": true,
+  "files.exclude": {
+    "**/node_modules/": true,
+    "package-lock.json": true,
+    "yarn.lock": true,
+    "**/.next": true,
+    "**/dist/": true
+  },
+  "git.autofetch": true,
+  "editor.fontLigatures": true,
+  "editor.emptySelectionClipboard": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.showTabs": true
+}
